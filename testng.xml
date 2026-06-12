@@ -1,0 +1,15 @@
+
+
+<suite name="GUI Automation Suite">
+
+    <test name="GUI Automation Test">
+
+        <classes>
+
+            <class name="com.automation.tests.GUIElementsTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
